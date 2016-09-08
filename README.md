@@ -1,0 +1,1 @@
+Code to stream data from exchanges for later testing/analysis. Currently running the old version of the universal-api to access the exchanges. Currently setup to download only the orderbooks of select markets in one second snapshots.
